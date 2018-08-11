@@ -1,0 +1,9 @@
+*.png
+*.csv
+*.pdf
+*.zip
+*.model
+*.tex
+*.html
+*.hdf5
+*checkpoint*.ipynb
